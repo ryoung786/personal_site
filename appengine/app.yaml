@@ -9,5 +9,7 @@ handlers:
   static_dir: assets
 - url: /images
   static_dir: images
+- url: /old
+  static_dir: athena
 - url: /.*
   script: handler.py
