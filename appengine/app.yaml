@@ -1,0 +1,19 @@
+application: ryoung786
+version: 3
+runtime: python27
+api_version: 1
+threadsafe: no
+
+handlers:
+- url: /images
+  static_dir: images
+- url: /jquery
+  static_dir: jquery
+- url: /css
+  static_dir: css
+- url: /old
+  static_dir: athena
+- url: /Resume
+  static: Resume.pdf
+- url: /.*
+  script: handler.py

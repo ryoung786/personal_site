@@ -1,0 +1,40 @@
+<game ruleset="6170-spring-2006">
+	<time timed="false" initWhite="0" initBlack="0" currentWhite="0" currentBlack="0" />
+	<moveHistory>
+		<move side="white" value="c2-c4" time="0" />
+	</moveHistory>
+	<pieces>
+		<square id="h8" side="black" piece="rook" />
+		<square id="c1" side="white" piece="bishop" />
+		<square id="f1" side="white" piece="bishop" />
+		<square id="e2" side="white" piece="pawn" />
+		<square id="f8" side="black" piece="bishop" />
+		<square id="c7" side="black" piece="pawn" />
+		<square id="f2" side="white" piece="pawn" />
+		<square id="h1" side="white" piece="rook" />
+		<square id="b1" side="white" piece="knight" />
+		<square id="b8" side="black" piece="knight" />
+		<square id="c8" side="black" piece="bishop" />
+		<square id="e1" side="white" piece="king" />
+		<square id="d7" side="black" piece="pawn" />
+		<square id="h7" side="black" piece="pawn" />
+		<square id="b7" side="black" piece="pawn" />
+		<square id="a7" side="black" piece="pawn" />
+		<square id="d8" side="black" piece="queen" />
+		<square id="f7" side="black" piece="pawn" />
+		<square id="e7" side="black" piece="pawn" />
+		<square id="a1" side="white" piece="rook" />
+		<square id="d2" side="white" piece="pawn" />
+		<square id="h2" side="white" piece="pawn" />
+		<square id="d1" side="white" piece="queen" />
+		<square id="e8" side="black" piece="king" />
+		<square id="g1" side="white" piece="knight" />
+		<square id="c4" side="white" piece="pawn" />
+		<square id="g8" side="black" piece="knight" />
+		<square id="a2" side="white" piece="pawn" />
+		<square id="b2" side="white" piece="pawn" />
+		<square id="a8" side="black" piece="rook" />
+		<square id="g7" side="black" piece="pawn" />
+		<square id="g2" side="white" piece="pawn" />
+	</pieces>
+</game>

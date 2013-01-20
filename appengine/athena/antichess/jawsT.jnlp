@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jnlp codebase="http://web.mit.edu/ryan786/www/antichess"
+      href="jaws.jnlp">
+	<information>
+	<title>se26 Antichess [TextUI]</title>
+	<vendor>SE26</vendor>
+	<icon href="se26icon.gif"/>
+	</information>
+	<resources>
+		<j2se version="1.5+"/>
+		<jar href="se26t.jar" />
+	</resources>
+	<application-desc main-class="view.TextUI"/>
+	<security>
+		<all-permissions/>
+	</security>
+</jnlp>

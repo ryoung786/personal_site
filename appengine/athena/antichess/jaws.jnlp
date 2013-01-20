@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jnlp codebase="http://ryoung786.appspot.com/old/antichess/"
+      href="jaws.jnlp">
+	<information>
+	<title>se26 Antichess</title>
+	<vendor>SE26</vendor>
+	<icon href="se26icon.gif"/>
+	</information>
+	<resources>
+		<j2se version="1.5+"/>
+		<jar href="se26.jar" />
+	</resources>
+	<application-desc main-class="view.GView"/>
+	<security>
+		<all-permissions/>
+	</security>
+</jnlp>

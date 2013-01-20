@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<site>
+	<name>google</name>
+	<link>http://www.google.com</link>
+</site>
+<site>
+	<name>gmail</name>
+	<link>http://gmail.com</link>
+</site>
+<site>
+	<name>penny arcade</name>
+	<link>http://www.penny-arcade.com</link>
+</site>
+<site>
+	<name>espn</name>
+	<link>http://espn.go.com</link>
+</site>
+<site>
+	<name>cnn</name>
+	<link>http://www.cnn.com</link>
+</site>
+<site>
+	<name>hacker news</name>
+	<link>http://news.ycombinator.com/</link>
+</site>
+<site>
+	<name>pictures</name>
+	<link>images/pic.html</link>
+</site>
+<site>
+	<name>kirupa</name>
+	<link>http://www.kirupa.com</link>
+</site>
+<site>
+	<name>proggit</name>
+	<link>http://programming.reddit.com</link>
+</site>
+<site>
+	<name>mit</name>
+	<link>http://web.mit.edu</link>
+</site>
+<site>
+	<name>phi sig</name>
+	<link>http://psk.mit.edu</link>
+</site>

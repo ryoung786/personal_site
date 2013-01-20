@@ -1,0 +1,34 @@
+#header {
+    background-color: #eee;
+}
+
+#header a {
+    padding-left: 10px;
+    text-decoration: none;
+    color: #333;
+}
+
+html {
+    background-image: url(../images/stripe.png);
+    background-repeat: repeat;
+}
+
+.link {
+    margin-top: 15px;
+    margin-left: 15px;
+    width: 75px;
+    height: 75px;
+    float: left;
+    border: 3px solid black;
+    text-align: center;
+}
+
+.link img {
+    width: 75px;
+}
+
+.link, .rounded {
+    border-radius: 10px;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+}

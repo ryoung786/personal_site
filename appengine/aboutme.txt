@@ -1,0 +1,9 @@
+My name is Ryan Young.  I'm a software developer that truly loves everything about my craft.  I graduated with a BS in Computer Science from MIT in 2008, and since then have been working at Morgan Stanley in the Credit Risk IT department.
+
+Things I like: Emacs, Ubuntu, TDD + Agile, Kentucky basketball
+Things I dislike: Emacs keybindings in other editors / IDEs, non-free OSes, Lipservice to TDD + Agile but really using a broken Waterfall model, UNC/Duke basketball
+
+Things I'd like to know more about: Git, Haskell, Erlang, R, Emacs,
+SQL, NoSQL
+
+My ideal job: Working in a small team in a problem domain that I can fully understand, using a wide variety of languages (some python would be nice), with the freedom to use whatever tools I want, and working with people who know more than me.
